@@ -1,6 +1,14 @@
-# Réplica do Spotify
+# Réplica do Spotify <img src="frontend\src\assets\logo\spotify-logo.png" width="30" align="center">
 
-Este projeto é uma réplica funcional da interface do Spotify, desenvolvido como parte do curso FullStack oferecido pela Hashtag Treinamentos. O objetivo é recriar aspectos da interface do Spotify, utilizando uma stack completa de tecnologias modernas.
+Este projeto é uma réplica funcional da interface do Spotify, desenvolvido como parte da Jornada FullStack oferecido pela Hashtag Treinamentos. O objetivo é recriar aspectos da interface do Spotify, utilizando uma stack completa de tecnologias modernas.
+
+
+## Conteúdo das Aulas
+- **Aula 1**: Frontend
+- **Aula 2**: Backend do Projeto
+- **Aula 3**: Player de Áudio Completo
+- **Aula 4**: Deploy
+  
 
 ## Tecnologias Utilizadas
 
