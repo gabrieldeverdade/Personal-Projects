@@ -2,10 +2,10 @@ from pytubefix.cli import on_progress
 from pytubefix import YouTube
 
 # Inserir URL do vídeo
-url = "url"
+url = "https://www.youtube.com/watch?v=Esb0zZj1X1k"
 
 # Mudar resolução de acordo com o vídeo
-RES = '2160p'
+RES = '1080p'
 
 yt = YouTube(url, on_progress_callback = on_progress)
 
